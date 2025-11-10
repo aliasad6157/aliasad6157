@@ -9,14 +9,17 @@
 
 ### 🧠 About Me
 - 🌐 Passionate about **Networking, Cloud Infrastructure, and DevOps**  
+- ⚙️ Experienced in **Cisco Routing & Switching**, **Linux**, and **Virtualization**  
 - 🧰 Currently exploring **CI/CD pipelines, Docker, Kubernetes, and Ansible**  
-- 🖥️ Learning **Linux administration, Network Automation, and Cloud Security**  
+- 🖥️ Learning **Network Automation and Cloud Security**  
 - 💬 Ask me about **Cisco Networking, Linux, Virtualization, and DevOps Tools**  
-- 📫 Reach me at **[your professional email here]**
+- 📫 Reach me at **aliasad6157@gmail.com**  
+- 💬 WhatsApp: **+92 305 6156470**
 
 ---
 
 ### 🧩 Skills & Tools
+
 #### 🚀 DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -54,6 +57,9 @@
   </a>
   <a href="mailto:aliasad6157@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/923056156470" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://github.com/aliasad6157">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
